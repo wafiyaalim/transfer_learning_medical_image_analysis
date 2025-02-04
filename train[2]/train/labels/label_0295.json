@@ -1,0 +1,439 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "description": "",
+      "label": "cervical vertebra",
+      "points": [
+        [
+          515.0862068965516,
+          163.43103448275855
+        ],
+        [
+          1146.1206896551723,
+          1066.8793103448277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "description": "",
+      "label": "C2_1",
+      "points": [
+        [
+          668.5344827586206,
+          378.94827586206895
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "description": "",
+      "label": "C2_2",
+      "points": [
+        [
+          678.8793103448276,
+          435.84482758620686
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "description": "",
+      "label": "C2_3",
+      "points": [
+        [
+          671.9827586206895,
+          456.5344827586207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "description": "",
+      "label": "C2_4",
+      "points": [
+        [
+          596.1206896551723,
+          480.67241379310343
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_1",
+      "points": [
+        [
+          607.0497630331754,
+          500.38151658767765
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_2",
+      "points": [
+        [
+          668.6611374407584,
+          472.8933649289099
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_3",
+      "points": [
+        [
+          677.1919431279621,
+          482.845971563981
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_4",
+      "points": [
+        [
+          697.0971563981043,
+          547.7748815165877
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_5",
+      "points": [
+        [
+          695.2014218009479,
+          557.7274881516588
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C3_6",
+      "points": [
+        [
+          618.8981042654028,
+          607.0165876777252
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_1",
+      "points": [
+        [
+          630.2725118483412,
+          613.1777251184834
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_2",
+      "points": [
+        [
+          688.5663507109005,
+          589.0071090047394
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_3",
+      "points": [
+        [
+          701.8364928909953,
+          593.7464454976304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_4",
+      "points": [
+        [
+          725.5331753554502,
+          661.9928909952607
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_5",
+      "points": [
+        [
+          720.7938388625593,
+          675.2630331753554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C4_6",
+      "points": [
+        [
+          644.0165876777252,
+          715.5473933649289
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_1",
+      "points": [
+        [
+          661.5521327014218,
+          722.1824644549763
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_2",
+      "points": [
+        [
+          720.3199052132702,
+          695.6421800947868
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_3",
+      "points": [
+        [
+          735.0118483412323,
+          705.5947867298578
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_4",
+      "points": [
+        [
+          750.6516587677726,
+          765.7843601895735
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_5",
+      "points": [
+        [
+          751.1255924170616,
+          779.0545023696683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C5_6",
+      "points": [
+        [
+          670.5568720379147,
+          813.6516587677726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_1",
+      "points": [
+        [
+          689.9881516587677,
+          827.8696682464455
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_2",
+      "points": [
+        [
+          746.8601895734597,
+          803.2251184834123
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_3",
+      "points": [
+        [
+          762.973933649289,
+          807.0165876777252
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_4",
+      "points": [
+        [
+          779.0876777251185,
+          877.632701421801
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_5",
+      "points": [
+        [
+          774.3483412322275,
+          892.3246445497631
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C6_6",
+      "points": [
+        [
+          694.2535545023696,
+          925.9739336492892
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_1",
+      "points": [
+        [
+          715.1066350710901,
+          940.1919431279621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_2",
+      "points": [
+        [
+          773.8744075829384,
+          908.9123222748815
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_3",
+      "points": [
+        [
+          788.5663507109005,
+          913.6516587677726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_4",
+      "points": [
+        [
+          809.8933649289099,
+          994.2203791469194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_5",
+      "points": [
+        [
+          807.9976303317536,
+          1011.2819905213271
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "C7_6",
+      "points": [
+        [
+          725.5331753554502,
+          1043.0355450236966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1 (366).JPG",
+  "imageData": null,
+  "imageHeight": 1651,
+  "imageWidth": 1525
+}
