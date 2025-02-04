@@ -4,9 +4,9 @@ import cv2
 import numpy as np
 
 # Paths to the folders containing JSON files and images
-json_folder = "D:/test[1]/test/labels"
-image_folder = "D:/test[1]/test/images"
-output_folder = "D:/train[2]/train/annotated"
+json_folder = "C:/Users/Lenovo/OneDrive/Documents/GitHub/transfer_learning_medical_image_analysis/test[1]/test/labels"
+image_folder = "C:/Users/Lenovo/OneDrive/Documents/GitHub/transfer_learning_medical_image_analysis/test[1]/test/images"
+output_folder = "C:/Users/Lenovo/OneDrive/Documents/GitHub/transfer_learning_medical_image_analysis/test[1]/test/images"
 
 # Create the output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
