@@ -44,9 +44,9 @@ def load_dataset(data_dir, target_size=(224, 224)):
     return np.array(X), np.array(y)
 
 # Paths
-train_dir = "D:/train"
-val_dir = "D:/valid"
-test_dir = "D:/test"
+train_dir = "C:/Users/sahil/Documents/transfer_learning_medical_image_analysis/train"
+val_dir = "C:/Users/sahil/Documents/transfer_learning_medical_image_analysis/valid"
+test_dir = "C:/Users/sahil/Documents/transfer_learning_medical_image_analysis/test"
 
 # Load Data
 X_train, y_train = load_dataset(train_dir)
